@@ -1079,5 +1079,6 @@
   "zachowj/hass-node-red",
   "zeronounours/HA-custom-component-energy-meter",
   "zigul/HomeAssistant-CEZdistribuce",
-  "ZsBT/hass-w1000-portal"
+  "ZsBT/hass-w1000-portal",
+  "soulripper13/speetest_rt_ru"
 ]
